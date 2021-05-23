@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAACIiIiIiIiIiFhVVVVVVVWFWO7u7u7u7oVY3t3d3d3thVjeu7u7u+2FWN6bmZm57YVY3ptERLnthVjem/RPue2FWN6b9E+57YVY3ptERLnthVjem5mZue2FWN67u7u77YVY3t3d3d3thVju7u7u7u6FWFVVVVVVVYWIiIiIiIiIiA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myTile8"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
